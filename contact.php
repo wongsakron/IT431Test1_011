@@ -5,12 +5,7 @@
             <td height="119" colspan="2" bgcolor="#006600">
                 <h1><center><font color="#FFFFFF">พรชัยอพาร์ตเมนต์</font></center></h1>
                 <?php include "Date.php"; ?>
-            </td>
-            <td width="43" rowspan="2">&nbsp;</td>
-        </tr>
-        <tr>
-        
-            </td>sdfsfsdfsf
+            <saf
             <td width="190" bgcolor="#FFFF66"><ul>
 				<li><a href="home.php">หน้าแรก</li>
 				<li><a href="room.php">ห้องพัก&ราคา</li>
