@@ -9,8 +9,7 @@
             <td width="43" rowspan="2">&nbsp;</td>
         </tr>
         <tr>
-            <td width="1007" bgcolor="#FFFFFF">
-                <img src="images/map.gif">
+        
             </td>sdfsfsdfsf
             <td width="190" bgcolor="#FFFF66"><ul>
 				<li><a href="home.php">หน้าแรก</li>
