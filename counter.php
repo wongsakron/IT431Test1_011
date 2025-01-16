@@ -5,8 +5,9 @@
     $sql = "select * from counter;";
 
     }
-  sad
+ 1-issue1
+    $pgcount = $pgcount + 1;
+    $pgcount = "00000" . $pgcount;
+    $pgcount = substr($pgcount, -6);
+    echo asf$pgcount' where id = 1";
 
-    $sql = "Update counter set countnum = '$pgcount' where id = 1";
-    $result = mysqli_query($link,$sql);
-?>
