@@ -4,9 +4,6 @@
     mysqli_query($link,"Use room;");
     $sql = "select * from counter;";
 
-    $result = mysqli_query($link,$sql);
-    while ($dbarr = mysqli_fetch_array($result)){
-        $pgcount = $dbarr["countnum"];
     }
     $pgcount = $pgcount + 1;
     $pgcount = "00000" . $pgcount;
